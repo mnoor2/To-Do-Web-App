@@ -1,4 +1,4 @@
-# To-Do-Web-App
+# To Do Web Application
 To-Do list web application that can store and take in data. Fully supported on multiple platforms
 
 
